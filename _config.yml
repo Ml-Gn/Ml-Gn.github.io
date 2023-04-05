@@ -1,0 +1,11 @@
+title: Moscow Text Showcase
+description: A brief description of our project here
+url: https://Ml-Gn.github.io/
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+theme: cayman
+
+# GitHub Pages settings
+remote_theme: "username/repo-name"
